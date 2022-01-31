@@ -1,16 +1,17 @@
-### Hi there 👋
+**Hi there** 👋
 
-<!--
-**GalAttar1/GalAttar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🤸🏻‍♀️ **about me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+23 years old. born in California, live in Israel. Horse riding instructor who learns computer since. I also love acrobatics, playing the guitar and travel the world. 
+
+
+📚  **studies**
+
+currently pursuing a Double Major computer science
+and Psychological Science bachelors degree from Tel Aviv University.
+
+
+📂 **projects that I'm working on:**
+
+* programing riddles as a preparation for developer interviews
